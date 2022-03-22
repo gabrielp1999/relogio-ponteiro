@@ -1,6 +1,3 @@
-# Relógio de ponteiro
-
-Projeto de exemplo de relógio de ponteiro com HTML, CSS, SVG e JavaScript.
-
-
-Foi seguido assistindo o vídeo https://youtu.be/HayL3n7EUJo
+# Relógio de ponteiro 
+## projeto rodando no github-pages:
+## https://gabrielp1999.github.io/relogio-ponteiro/
